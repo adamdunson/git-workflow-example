@@ -1,2 +1,2 @@
-text = "This app shore does a lot!"
+text = "This app is great!"
 puts text
