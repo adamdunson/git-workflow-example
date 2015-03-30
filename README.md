@@ -16,3 +16,8 @@ This repository is an illustrative example of the following workflow:
 12. Deploy the changes to staging, and production if all looks good.
 13. Repeat steps 5-12 as necessary, bumping the minor version each time.
 14. When master is in a state where we are ready to launch the next build, make a new branch like "v_2_7" off of master, repeat the process.
+
+# Links
+
+- https://www.kernel.org/pub/software/scm/git/docs/
+- http://nvie.com/posts/a-successful-git-branching-model/
