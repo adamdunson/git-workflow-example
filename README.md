@@ -1,6 +1,6 @@
 # Git Workflow Example
 
-This repository is an illustrative example of the following workflow:
+This repository is an example of the following workflow:
 
 1. Master is in a state you would like to deploy. Make a version branch off master called something like "v_2_6".
 2. Change the capistrano deploy file to point to a tag called "v2.6", rather than a branch, and commit it. Tag that commit on that branch with "v2.6".
